@@ -1,0 +1,49 @@
+
+.border{
+    background-color: blue;
+    height: 30px;
+}
+#navbar{
+    height: 15px;
+    
+}
+#navbar a {
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font: Arial;
+    
+}
+#chude{
+    height: 10px;
+    font-size: 20px;
+    font: Arial;
+}
+#chude a {
+    text-decoration: none;
+    color: red;
+    
+}
+#title{
+    color: blue;
+    font-size: 25px;
+    height: 20px;
+    font: Arial;
+}
+#time{
+    color: gray;
+    font-size: 14px;
+    font: Arial;
+}
+#title2{
+    font-size: 16px;
+    font: Arial;
+}
+#content-head{
+    font-size: 18px;
+    width: 1200px;
+}
+#content-img{
+    height: 600px;
+    width: 900px;
+}
